@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SofTarg8
-- 👀 I’m interested in ... Machine Learning and Web Dev
-- 🌱 I’m currently learning ... B. Tech CSE
-- 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... kiranecromancer123@gmail.com
+- 👋 Hi, I’m Samrat Singh Bhandari
+- 👀 I’m interested in ... Machine Learning and Game Dev
+- 🌱 I’m currently learning ... Rust
+- 💞️ I’m looking to collaborate on ... Games
+- 📫 How to reach me ... samrat.s.b729@gmail.com
