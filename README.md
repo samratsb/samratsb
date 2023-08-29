@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samrat Singh Bhandari
 - 👀 I’m interested in ... Machine Learning and Game Dev
-- 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ... Games
+- 🌱 I’m currently learning ... Rust and CPP
+- 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ... samrat.s.b729@gmail.com
