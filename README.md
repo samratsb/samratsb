@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 🤝 I’m looking for help with **Leetcode**
-
 - 📫 How to reach me **samrat.s.b729@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
