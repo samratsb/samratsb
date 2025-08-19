@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Samrat</h1>
-<h3 align="center">A passionate B. Tech student from India</h3>
+<h3 align="center">Aspiring Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samratsb&label=Profile%20views&color=0e75b6&style=flat" alt="samratsb" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, Cloud, DBMS**
+- 🌱 I’m currently working in a cybersecurity company
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on projects that are easy
 
 - 📫 How to reach me **samrat.s.b729@gmail.com**
 
